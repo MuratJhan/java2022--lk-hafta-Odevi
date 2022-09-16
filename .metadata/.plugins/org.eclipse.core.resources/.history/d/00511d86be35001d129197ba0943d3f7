@@ -1,0 +1,12 @@
+package stringsDemo2;
+
+public class main {
+
+	public static void main(String[] args) {
+		String yeniMesaj = mesaj.replace('', '-');
+		System.out.println(yenimesaj);
+		System.out.println(mesaj.substring(2));
+		
+	}
+
+}

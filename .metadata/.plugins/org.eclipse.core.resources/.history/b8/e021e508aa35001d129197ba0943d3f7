@@ -1,0 +1,6 @@
+package javaHelloWorld;
+
+public class main {
+	
+	System.out.println()
+}
